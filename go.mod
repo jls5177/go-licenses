@@ -1,4 +1,4 @@
-module github.com/google/go-licenses
+module github.com/jls5177/go-licenses
 
 go 1.13
 

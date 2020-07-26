@@ -16,7 +16,7 @@ package main
 
 import (
 	"flag"
-	"github.com/google/go-licenses/licenses"
+	"github.com/jls5177/go-licenses/licenses"
 	"strings"
 
 	"github.com/golang/glog"
